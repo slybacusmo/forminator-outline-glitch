@@ -1,0 +1,5 @@
+/* just change forminator id number */
+.forminator-custom-form-2494.forminator-design--flat .forminator-pagination:focus,
+.forminator-custom-form-2396.forminator-design--flat .forminator-pagination:focus {
+    outline: none;
+}
